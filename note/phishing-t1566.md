@@ -1,6 +1,6 @@
 # Initial Access (TA0001) - Phishing (T1566)
 
- [Phishing (T1566)](02-phishing-t1566.md)
+ [Phishing (T1566)]
  
 ## Overview
 Phishing is a social engineering technique used to gain unauthorized access by tricking users into revealing sensitive information or opening malicious files.
